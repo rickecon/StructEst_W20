@@ -83,8 +83,7 @@ I will use a shell script to clone all class members' repositories at the time t
 |---------|---|-------------------------------------|---------|-----|
 | Jan.  6 | M | Introduction                     | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Slides/StructEst_Intro.pdf) | [PS1](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS1/PS1.pdf) |
 | Jan.  8 | W | Git and GitHub intro                | [tutorial](https://github.com/rickecon/StructEst_W20/blob/master/Tutorials/git_tutorial.pdf) |  |
-|         |   | Structural vs. reduced form disc.   | K2010   |  |
-|         |   |                                     | R2010   |     |
+|         |   | Structural vs. reduced form disc.   | K2010, R2010  |  |
 | Jan. 13 | M | Maximum likelihood estimation (MLE)  | Notebk | PS2 |
 | Jan. 15 | W | Maximum likelihood estimation (MLE) |  |     |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |    |     |
