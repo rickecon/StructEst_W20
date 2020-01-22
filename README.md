@@ -64,7 +64,7 @@ Project paper                |   20   |    28.6%   |
 
 * **Homework:** I will assign 4 problem sets throughout the first half of the term.
     * You must write and submit your own computer code, although I encourage you to collaborate with your fellow students. I **DO NOT** want to see a bunch of copies of identical code. I **DO** want to see each of you learning how to code these problems so that you could do it on your own.
-    * Problem set solutions, both written and code portions, will be turned in via a pull request from your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
+    * Problem set solutions, both written and code portions, will be turned in by committing and pushing them to your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
     * Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
 * **Project:** The project will either be a replication of an existing structural estimation paper or an original estimation project. I will approve each project. The final writeup of the project will be worth 20 points, which is equivalent to two homework assignments. The initial in-class presentation of your project proposal and your final in-class presentation of your project results will each be worth 5 points. The project write up will be due on Wednesday, March 12, the day after regular classes end (first reading day).
 
