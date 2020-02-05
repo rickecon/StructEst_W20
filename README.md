@@ -91,7 +91,7 @@ I will use a shell script to clone all class members' repositories at the time t
 | Jan. 27 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/rickecon/StructEst_W20/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS3](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 29 | W | Generalized method of moments (GMM) |      |     |
 | Feb.  3 | M | Generalized method of moments (GMM) | H1982   |     |
-| Feb.  5 | W | Simulated Method of Moments (SMM)   | Notebk | PS4 |
+| Feb.  5 | W | Simulated Method of Moments (SMM)   | [Notebk](https://github.com/rickecon/StructEst_W20/blob/master/Notebooks/SMM/SMMest.ipynb) | [PS4](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS4/PS4.pdf) |
 | Feb. 10 | M | Simulated Method of Moments (SMM)   | DM2004  |  |
 |         |   |                                     | S2008   |       |
 | Feb. 12 | W | Proposal guidelines, example presentation, topics | Slides |  |
