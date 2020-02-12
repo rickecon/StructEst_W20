@@ -94,7 +94,7 @@ I will use a shell script to clone all class members' repositories at the time t
 | Feb.  5 | W | Simulated Method of Moments (SMM)   | [Notebk](https://github.com/rickecon/StructEst_W20/blob/master/Notebooks/SMM/SMMest.ipynb) | [PS4](https://github.com/rickecon/StructEst_W20/blob/master/ProblemSets/PS4/PS4.pdf) |
 | Feb. 10 | M | Simulated Method of Moments (SMM)   | DM2004  |  |
 |         |   |                                     | S2008   |       |
-| Feb. 12 | W | Proposal guidelines, example presentation, topics | Slides |  |
+| Feb. 12 | W | Proposal guidelines, example presentation, topics | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/ProposalPresent.pdf) |  |
 | Feb. 17 | M | Workshop presentations, sign up     |     |  |
 | Feb. 19 | W | Student proposal presentation       |         | Prop |
 | Feb. 24 | M | Project: Data Description           | Slides, B2017  |     |
