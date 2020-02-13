@@ -15,7 +15,7 @@ This page lists the projects and project members for each project group. It also
 | 2:30p | Dave Foote |
 | 2:45p* | Yutao Chen |
 | 3:00p* | Takuya Ando |
-| 3:15p* | Katherine [what's your last name?] |
+| 3:15p* | Xiangyu Ma |
 | 3:30p* | Jesus Pacheco|
 * Any time slots after 2:45p will be in 247 Saieh
 
