@@ -8,13 +8,16 @@ This page lists the projects and project members for each project group. It also
 
 | Time  | Students        |
 |-------|-----------------|
-| 1:30p |   |
-| 1:45p |   |
-| 2:00p |   |
-| 2:15p |   |
-| 2:30p |   |
-| 2:45p |   |
-| 3:00p |   |
+| 1:30p | Erin Eidschun |
+| 1:45p | Jose Cerda |
+| 2:00p | Kento Yoshizawa |
+| 2:15p | Meng Yang |
+| 2:30p | Dave Foote |
+| 2:45p* | Yutao Chen |
+| 3:00p* | Takuya Ando |
+| 3:15p* | Katherine [what's your last name?] |
+| 3:30p* | Jesus Pacheco|
+* Any time slots after 2:45p will be in 247 Saieh
 
 ## Project Groups and Topics
 
