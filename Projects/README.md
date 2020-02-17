@@ -22,14 +22,16 @@ This page lists the projects and project members for each project group. It also
 ## Project Groups and Topics
 
 | Project members | Project topic | Project sources |
-|---------------|-----------------|-----------------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|-----------------|-----------------|-----------------|
+| Takuya Ando     | Calibrate labor supply in OG | Evans (2020) |
+| Jose Cerda      | Estimating firm entry and exit | Tybout, et al (2007) |
+| Yutao Chen      | Opinion dynamics | Deffuant (2006) |
+| Erin Eidschun   | Estimating trade parameters by GMM | Nyman (2008) |
+| Dave Foote and Jesus Pacheco | Female labor participation and child care | Ribar (1995) |
+| Xiangyu Ma      | Economics of art: book reviews | ? |
+| Meng Yang       | Banking system markups |  Hortacsu (2018) |
+| Kento Yoshizawa | Forward vs. backward inflation expectations | Gali, et al (1999) |
+| Frederick Zhu   | Sovereign default with renegotiation | Uribe, Chap 13. |
 
 
 ## Project presentation times
