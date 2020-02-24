@@ -97,7 +97,7 @@ I will use a shell script to clone all class members' repositories at the time t
 | Feb. 12 | W | Proposal guidelines, example presentation, topics | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/ProposalPresent.pdf) |  |
 | Feb. 17 | M | Workshop presentations, sign up     |     |  |
 | Feb. 19 | W | Student proposal presentation       |         | Prop |
-| Feb. 24 | M | Project: Data Description           | Slides, B2017  |     |
+| Feb. 24 | M | Project: Data Description           | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/DataSection_slides.pdf), B2017  |     |
 |         |   |                                     | ASV2013, R1987 |     |
 | Feb. 26 | W | Project: Model Description          | Slides, DEP2019 |     |
 |         |   |                                     | LNT2016 |     |
