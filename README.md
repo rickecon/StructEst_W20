@@ -104,8 +104,8 @@ I will use a shell script to clone all class members' repositories at the time t
 | Mar.  2 | M | Project: Estimation Section         | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/EstimResults_slides.pdf) |     |
 | Mar.  4 | W | Project: Concl., Intro., Abstract   | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/IntroAbsConcl_slides.pdf) |     |
 | Mar.  9 | M | Student project consultations       |        |      |
-| Mar. 10 | W | Student project presentations       |        | Prsnt|
-| Mar. 11 | W | Student project presentations       |        | Prsnt|
+| Mar. 10 | T | Student project presentations       |        | [Prsnt](https://github.com/rickecon/StructEst_W20/tree/master/Projects#tuesday-march-10) |
+| Mar. 11 | W | Student project presentations       |        | [Prsnt](https://github.com/rickecon/StructEst_W20/tree/master/Projects#wednesday-march-11) |
 | Mar. 12 | Th | Student project write-up is due (5pm) |     | Proj |
 
 
