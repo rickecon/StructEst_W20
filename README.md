@@ -101,10 +101,11 @@ I will use a shell script to clone all class members' repositories at the time t
 |         |   |                                     | ASV2013, R1987 |     |
 | Feb. 26 | W | Project: Model Description          | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/ModelDescr_slides.pdf), DEP2019 |     |
 |         |   |                                     | LNT2016 |     |
-| Mar.  2 | M | Project: Estimation Section         | Slides |     |
-| Mar.  4 | W | Project: Concl., Intro., Abstract   | Slides |     |
-| Mar.  9 | M | Student project presentation        |        | Prsnt|
-| Mar. 11 | W | Student project presentation        |        | Prsnt|
+| Mar.  2 | M | Project: Estimation Section         | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/EstimResults_slides.pdf) |     |
+| Mar.  4 | W | Project: Concl., Intro., Abstract   | [Slides](https://github.com/rickecon/StructEst_W20/blob/master/Projects/IntroAbsConcl_slides.pdf) |     |
+| Mar.  9 | M | Student project consultations       |        |      |
+| Mar. 10 | W | Student project presentations       |        | Prsnt|
+| Mar. 11 | W | Student project presentations       |        | Prsnt|
 | Mar. 12 | Th | Student project write-up is due (5pm) |     | Proj |
 
 
