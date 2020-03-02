@@ -28,7 +28,7 @@ This page lists the projects and project members for each project group. It also
 | Yutao Chen      | Opinion dynamics | Deffuant (2006) |
 | Erin Eidschun   | Estimating trade parameters by GMM | Nyman (2008) |
 | Dave Foote and Jesus Pacheco | Female labor participation and child care | Ribar (1995) |
-| Xiangyu Ma      | Economics of art: book reviews | ? |
+| Xiangyu Ma      | Marriage matching |  |
 | Meng Yang       | Banking system markups |  Hortacsu (2018) |
 | Kento Yoshizawa | Forward vs. backward inflation expectations | Gali, et al (1999) |
 | Frederick Zhu   | Sovereign default with renegotiation | Uribe, Chap 13. |
