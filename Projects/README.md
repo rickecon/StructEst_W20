@@ -36,7 +36,7 @@ This page lists the projects and project members for each project group. It also
 
 ## Project presentation times
 
-For project presentations on Tuesday, March 10, only the presenter(s) is (are) required to attend as those presentations will be held outside of normal class time in the conference room in 1155 E 60th Street (room 222). However, classmates are encouraged to attend. All students are encouraged to attend the class presentations on Wednesday, March 11.
+For project presentations on Tuesday, March 10, only the presenter(s) is (are) required to attend as those presentations will be held outside of normal class time in the conference room in 1155 E 60th Street (room 222). However, classmates are encouraged to attend. Non-presenting students are also encouraged to attend the class presentations on Wednesday, March 11, but only the presenter is required.
 
 ### Tuesday, March 10
 |  Time slot     |   Presenter   | Topic |
