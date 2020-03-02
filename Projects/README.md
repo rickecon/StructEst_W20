@@ -40,7 +40,7 @@ For project presentations on Tuesday, March 10, only the presenter(s) is (are) r
 
 ### Tuesday, March 10
 |  Time slot     |   Presenter   | Topic |
-|----------------|---------------|- -----|
+|----------------|---------------|-------|
 |  1:30 -  1:50p |               |       |
 |  1:55 -  2:15p |               |       |
 |  2:20 -  2:50p |               |       |
@@ -49,7 +49,7 @@ For project presentations on Tuesday, March 10, only the presenter(s) is (are) r
 
 ### Wednesday, March 11
 |  Time slot     |   Presenter   | Topic |
-|----------------|---------------|- -----|
+|----------------|---------------|-------|
 |  9:50 - 10:10a |               |       |
 | 10:15 - 10:35a |               |       |
 | 10:40 - 11:00a |               |       |
