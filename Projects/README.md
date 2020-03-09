@@ -50,14 +50,14 @@ For project presentations on Tuesday, March 10, only the presenter(s) is (are) r
 ### Wednesday, March 11
 |  Time slot     |   Presenter   | Topic |
 |----------------|---------------|-------|
-|  9:25 -  9:45a |               |       |
+|  9:25 -  9:45a | Takuya Ando | OG Labor calibration |
 |  9:50 - 10:10a | Dave Foote and Jesus Pacheco | Fem labor part and child care |
 | 10:15 - 10:35a | Meng Yang     | Banking markups |
 | 10:40 - 11:00a | Kento Yoshizawa | Forward v. backward infl. exp. |
 |  1:30 -  1:50p | Jose Cerda    | Firm entry and exit |
 |  1:55 -  2:15p | Erin Eidschun | Trade parameters |
 |  2:20 -  2:50p | Xiangyu Ma | Marriage matching |
-|  2:55 -  3:15p |            |                   |
+|  2:55 -  3:15p | Yutao Chen | Opinion dynamics |
 
 
 ## Project LaTeX template
