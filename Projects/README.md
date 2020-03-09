@@ -36,20 +36,12 @@ This page lists the projects and project members for each project group. It also
 
 ## Project presentation times
 
-For project presentations on Tuesday, March 10, only the presenter(s) is (are) required to attend as those presentations will be held outside of normal class time in the conference room in 1155 E 60th Street (room 222). However, classmates are encouraged to attend. Non-presenting students are also encouraged to attend the class presentations on Wednesday, March 11, but only the presenter is required.
-
-### Tuesday, March 10
-|  Time slot     |   Presenter   | Topic |
-|----------------|---------------|-------|
-|  1:30 -  1:50p |               |       |
-|  1:55 -  2:15p |               |       |
-|  2:20 -  2:50p |               |       |
-|  2:55 -  3:15p |               |       |
-|  3:20 -  3:50p |               |       |
+For project presentations on Wednesday, March 11, only the presenter(s) is (are) required to attend because the majority of presentations will be held outside of class time. Non-presenting students are also encouraged to attend the presentations, but only the presenter is required.
 
 ### Wednesday, March 11
 |  Time slot     |   Presenter   | Topic | Location|
 |----------------|---------------|-------|---------|
+|  9:00 - 9:20a  | Frederick Zhu | Sovereign default | 1155 E 60th St, room 222 |
 |  9:25 -  9:45a | Takuya Ando | OG Labor calibration | 1155 E 60th St, room 222 |
 |  9:50 - 10:10a | Dave Foote and Jesus Pacheco | Fem labor part and child care | 1155 E 60th St, room 222 |
 | 10:15 - 10:35a | Meng Yang     | Banking markups | 1155 E 60th St, room 222 |
